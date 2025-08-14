@@ -1,7 +1,7 @@
 // app/page.tsx (actualizado para usar los nuevos componentes) <Particles density={0.7} speed={0.8} opacity={0.65}/>
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
-import Trustbar from "@/components/Trustbar";
+import Trustbar from "@/components/TrustBar";
 import Services from "@/components/Services";
 import Process from "@/components/Process";
 import Stack from "@/components/Stack";
